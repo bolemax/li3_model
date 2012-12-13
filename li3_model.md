@@ -99,8 +99,10 @@ public function updateTitle($id, $newTitle) {
 			);
 }
 ?>
+```
 
 ### Deleting Data
+
 Removing data works similar to updating data, now use the `delete()` function you can remove a subset of your database entries.
 
 ```php
